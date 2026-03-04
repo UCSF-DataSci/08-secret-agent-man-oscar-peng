@@ -1,0 +1,134 @@
+{
+  "killer": "Larry Johnson",
+  "weapon": "Antler trophy",
+  "motive": "Jealousy over Marcus's discovery of valuable coins and the potential sale of the cabin",
+  "evidence": [
+    "The antler trophy was wiped clean of fingerprints, indicating it was used as a weapon and the killer attempted to conceal their identity.",
+    "Larry's hiking boots were found muddy and damp, contradicting his claim of not going outside after dinner, suggesting he was outside during the time of the murder.",
+    "Marcus's last text message indicated a confrontation over ownership of something valuable, which aligns with Larry's motive to eliminate Marcus to gain control over the discovery of the coins.",
+    "The unlocked back door suggests someone entered or exited the cabin without the others knowing, likely Larry after the murder.",
+    "Diana's contradictory statements about hearing raised voices and her evasiveness regarding the whiskey glass suggest she was aware of the tension between Marcus and Larry."
+  ],
+  "transcript": [
+    {
+      "action": "search",
+      "detail": "Searched Living Room"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Kitchen"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Mudroom / Back Entry"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Upstairs Hallway"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Back Porch"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Marcus's Bedroom"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What is your alibi for the night of Marcus's murder? Where were you and what wer"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What is your alibi for the night of Marcus's murder? Where were you and what wer"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What is your alibi for the night of Marcus's murder? Where were you and what wer"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What is your alibi for the night of Marcus's murder? Where were you and what wer"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, right! My alibi, yes. I was actually playing cards with Tom at his place. We were just having a "
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was outside on the back porch taking long-exposure photos of the snowfall. I started around 9pm an"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I was in my room reading until midnight, then I slept through until 7am. I had no reason to leave my"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I was playing cards with Larry until about 9:15 PM, and then I video-called my wife from my room. Th"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: We found a glass of whiskey with only Marcus's fingerprints on it. Why would you"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Your hiking boots were found muddy and damp, but you claimed you didn't go outsi"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned you were on a video call during the time of the murder. Can you pr"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Your camera was set up to capture the living room. Why were you photographing th"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I wasn't having a conversation with him, Detective. I was in my room reading, as I stated. If Marcus"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I wasn't actually photographing the inside of the cabin. I was focused on the snowfall and the way t"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, those boots! You know how it is\u2014sometimes I just forget to clean them after a hike. I might "
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I was on a video call with my wife from 9:20pm to 10:45pm, and I can confirm that the call last"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned you were reading in your room. Did you hear anything unusual, like"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You said you might have stepped outside briefly. Can you clarify what you went o"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You heard raised voices around 10:30pm. Can you recall who was involved in the a"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You said you were focused on the snowfall. Did you notice anyone moving around i"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I was quite engrossed in my book, so I can't say I heard anything out of the ordinary. However, I di"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, right! I mean, I might have stepped outside to get some fresh air, you know? Just a little b"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I couldn't make out specific voices, but it sounded like Marcus was involved, as he often had a way "
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was pretty focused on my camera and the snowfall, so I didn't pay much attention to what was happe"
+    }
+  ]
+}
